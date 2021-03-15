@@ -291,7 +291,7 @@ void Print_IMU_Info() {
   int batteryLevel = floor(100.0 * (((M5.Axp.GetVbatData() * 1.1 / 1000) - 3.0) / (4.07 - 3.0)));
   batteryLevel = batteryLevel > 100 ? 100 : batteryLevel;
 
-  M5.Lcd.fillScreen(TFT_BLACK);
+  //M5.Lcd.fillScreen(TFT_BLACK);
   M5.Lcd.setCursor(0, 0);
   M5.Lcd.setTextSize(1);
   M5.Lcd.setTextColor(WHITE, BLACK);
