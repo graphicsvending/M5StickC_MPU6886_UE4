@@ -8,15 +8,11 @@ The code is sending Roll,Pitch, Yaw (Quaternion based and filtered by Madgwick).
 
 please feel free to input your code here...to enhance the functionality of this project...Thanks!
 
+1. Download the Unreal Engine Project files (project ver: 4.26)
+https://drive.google.com/drive/folders/1VLsQt1B19Ilpa-ymeBVlP7oMbGEIMG13?usp=sharing
 
-1. Download and Install Unreal Engine:
-https://www.unrealengine.com/en-US/download
-
-2. Download the Unreal Engine Project files
-https://drive.google.com/drive/folders/1YvBDNX2BROSeXCqqwkZhBKAqM4YTYyu5?usp=sharing
-
-3. Arduino Code from:
+2. Arduino Code from:
 https://github.com/graphicsvending/M5StickC_MPU6886_UE4
 
-4. M5 core for this project:
-https://m5stack.com/collections/m5-core/products/stick-c
+3. M5STICK-C for this project:
+https://m5stack.com/products/stick-c
