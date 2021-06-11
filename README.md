@@ -4,7 +4,7 @@ Hardware: M5StickC
 Software: Arduino IDE, Unreal Engine 4.25, Lonet UE4 Plugin
 
 Sending UDP packet...(roll, pitch, yaw data) from M5StickC MPU6886 to Unreal Engine 4(LiveLink) for CG virtual tracking... 
-The code is sending Roll,Pitch, Yaw (Quaternion based and filtered by Madgwick)... but Yaw is drifting over the time (absence of magnetometerin the stick)
+The code is sending Roll,Pitch, Yaw (Quaternion based and filtered by Madgwick)... but Yaw is drifting over the time (absence of magnetometer)
 
 please feel free to input your code here...to enhance the functionality of this project...Thanks!
 
